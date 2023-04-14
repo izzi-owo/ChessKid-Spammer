@@ -7,3 +7,5 @@ This will incress your ELO to levels like 5000.
 It works infinitly with no chance of getting banned on mains.
 
 Please know that you wont be able to get this elo on your main, only on alts
+
+Get it here: https://www.mediafire.com/file/9keysrnsxu3zl8h/ChessKidSpammer.py/file
